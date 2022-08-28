@@ -13,7 +13,7 @@ public class 네트워크 {
 			for (int i = 0; i < n; i++) {  // 방문체크할 배열의 길이만큼 반복
 				if(visited[i]) continue;  // 방문했으면 넘어감
 				Queue<Integer> queue = new LinkedList<Integer>();
-				queue.offer(i); //  1. 탐색 시작 노드를 큐에 삽입하고 방문 처리를 한다.
+				queue.offer(i); //  1. 탐색 시작 노드를 큐에 삽입한다.
 				while(!queue.isEmpty()) {  // 더 이상 수행할 수 없을 때까지 실행
 					int current = queue.poll();   // 큐에서 노드를 꺼내
 					visited[current] = true;	// 방문처리를 한다.
