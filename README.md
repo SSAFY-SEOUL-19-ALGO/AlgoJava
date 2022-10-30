@@ -77,6 +77,6 @@ Lead : 이상원
 | |bfs/dfs|실버1|[봄버맨](https://www.acmicpc.net/problem/16918)|주연, 영경|
 | |완전탐색|골드4|[가르침](https://www.acmicpc.net/problem/1062)|예은, 려환|
 |**12회차**|구현|골드4|[puyo puyo](https://www.acmicpc.net/problem/11559)||
-| |백트래킹|골드3|[소문난 칠공주](https://www.acmicpc.net/problem/1941)||
-| |구현 | 골드4 | [카드 섞기](https://www.acmicpc.net/problem/1091) | |
-| | 구현 | 실버3 | [미로 만들기](https://www.acmicpc.net/problem/1347) | |
+| |백트래킹|골드3|[소문난 칠공주](https://www.acmicpc.net/problem/1941)|지혜, 예은|
+| |구현 | 골드4 | [카드 섞기](https://www.acmicpc.net/problem/1091) |려환, 주연 |
+| | 구현 | 실버3 | [미로 만들기](https://www.acmicpc.net/problem/1347) | 영경, 상원|
